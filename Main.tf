@@ -9,6 +9,7 @@ variable "terraform_server_count" {}
 #variable "webserver_subnets" {
 #    type = "list"
 #}
+# new line
 
 variable "subscription_id" {}
 variable "client_id" {}
